@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to a gentleman, upon a royal fishery, a council of trade, and a national fishery</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88028</idno><idno type="EEBO-CITATION">99896434</idno>
+  <idno type="VID">154261</idno>
+  <idno type="EEBO-PROQUEST">2240920108</idno>
+  
+            <idno type="STC">Wing L1661C</idno>
+            <idno type="STC">ESTC R230706</idno>
+            <idno type="PROQUEST">99896434</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99896434e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2408:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to a gentleman, upon a royal fishery, a council of trade, and a national fishery</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Whitlock, near Stationers-Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Fisheries --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154261:1"/>
+            <head>A Letter to a Gentleman, <hi>UPON</hi>
+               <list>
+                  <item>A Royal Fishery,</item>
+                  <item>A Council of Trade, and</item>
+                  <item>A National Fishery.</item>
+               </list>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>In obedience to your Commands, I here send you my Thoughts, of a <hi>Royal Fishery,</hi> and of a <hi>Council of Trade;</hi> and whither they are Projects fit for so Great a People, as the People of <hi>England</hi> to build on, I leave you to judge.</p>
+            <p>The first Sir, has been often try'd, and is just, as if <hi>England</hi> should set up a Royal Wooll Manufactory, and by virtue of a large House, many Subscripti<g ref="char:EOLhyphen"/>ons, and Officers to receive the Money, design'd to make a world of Woollen-Cloth; what the Consequence of such a Project will be, judge you: that is, Judge, whether the Publick Manufacture, will break the Private Manufactures, or the Private the Publick; and whether <hi>England</hi> can be Six-pence the better supposing either.</p>
+            <p>The other Sir, was Sir <hi>Walter Rawleigh</hi>'s Project a hundred Years ago, only he calls that a <hi>State-Merchant</hi> which we call a <hi>Council of Trade.</hi>
+            </p>
+            <p>Now Sir, whoever seriously considers, that <hi>England,</hi> after plowing the Seas a hundred Years, can show but Seven or Eight Millions by Trade, and that the <hi>Dutch</hi> in the same time, has actually rais'd above a Hundred
+<note n="*" place="margin">
+                  <hi>Sir</hi> Walter Rawleigh, <hi>Sir</hi> John Burrows, <hi>and twenty more, but espe<g ref="char:EOLhyphen"/>cially the grow<g ref="char:EOLhyphen"/>ing</hi> Dutch <hi>and</hi> French <hi>Fisheries plainly shews, what</hi> England <hi>has lost, may lose, and may get by Fishing.</hi>
+               </note> Millions in Gold, with Seamen to defend it, out of <hi>England</hi>'s Fish-Ponds, must sure own a <hi>Council of Trade,</hi> has signify'd very little to the <hi>English</hi> Nation; and that <hi>England</hi> by ne<g ref="char:EOLhyphen"/>glecting Fishing, especially the <hi>Newfoundland</hi>-Fishing, has not only lost Milli<g ref="char:EOLhyphen"/>ons which ought to be now in <hi>Englishmen</hi>'s Pockets, but has given <hi>The French</hi> opportunity to raise Millions, and that <hi>Fleet</hi> we now see, <hi>A growing Fleet</hi> Sir, rightly consider'd; <hi>Mountains of Gold,</hi> as well as those <hi>Jewels Seamen,</hi> being to be rais'd by that <hi>Fishery.</hi>
+            </p>
+            <p>Now Sir, that <hi>England</hi> has neglected this Rich <hi>Fishery,</hi> decay'd <hi>Bridport</hi> in <hi>Dorsetshire,</hi> that flourish'd upon making of Nets, and twenty places more, can witness: And indeed Sir, had the six or seven hundred Ships, <hi>England</hi> had on this Rich <hi>Fishery,</hi> encreas'd, as you know they ought to have done, instead of de<g ref="char:EOLhyphen"/>creas'd, the World must own, <hi>England</hi> might have sent abroad, as bold a Mes<g ref="char:EOLhyphen"/>sage now, as Queen <hi>Elizabeth</hi> did, which you know Sir, silences all ingeni<g ref="char:EOLhyphen"/>ous Writers upon Trade and Navigation in the Nation, and plainly shews they scribble and prattle to no purpose; and that if <hi>England's Power</hi> is ever to be rais'd, it must be by a <hi>National Fishery</hi> or <hi>Never Raised.</hi> But Sir, to do that, requires more Art, than most Men imagine, <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s <hi>National Fishery,</hi> which has Vertue in't to get the Riches of the World, being to be rais'd without Six-pence
+<note n="†" place="bottom">
+                  <hi>That is Sir, in plain</hi> Eng<g ref="char:EOLhyphen"/>lish, <hi>no Money must be rais'd, no Man must be forc'd to Fish.</hi>
+               </note>, when all the Money in the Nation, and Ten times as much, won't do't: And this Sir, being the subli<g ref="char:EOLhyphen"/>mest Lesson, in that great Art or Mystery call'd <hi>Commerce,</hi> or the Art of raising the Power of a People, I lay it before you; a Lesson Sir, if you carefully Learn, and can fairly demonstrate, to the Nation, how it may be practis'd, there's no doubt Sir, you may have what Reward you please, the true Art of Fishing being of more value to the <hi>English</hi> Nation than can be express'd, or indeed the Philoso<g ref="char:EOLhyphen"/>pher's-Stone, were there such a thing; for what's that Jewel Liberty, without this Art, or that Never-to-be-valu'd-enough Religion? for tho' it has pleas'd God, to bless the People of this Nation, with the Oracles of his Truth in their own Tongue, yet without this Art, how is it possible to defend these Sacred Oracles? for what's these inestimable Jewels, and all the Riches and Jewels in the Na<g ref="char:EOLhyphen"/>tion, without a Fleet? What's a Fleet without a growing <hi>National Fishery,</hi> or solid Nursery for Seamen? especially among Neighbours whose Power is ari<g ref="char:EOLhyphen"/>sing, who, you know, are Friends to Day for their Interest, and Enemies to <gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <div type="part">
+               <pb facs="tcp:154261:2"/>
+               <head>The Design of these Thoughts is to show</head>
+               <p>That all ingenious Discourses upon Trade, Navigation, <hi>&amp;c.</hi> since Sir <hi>Walter Rawleigh</hi>'s Time, even his not excepted, were only empty
+<note n="*" place="margin">
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, Sir, all ingenious Wri<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>pon Fisheries, only learned<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ke out, that Fish is good <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>'tis catch'd — All in<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>is Writers upon Trade, in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Words, say nothing, and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> blot Cart-Loads of Paper <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> purpose: Sir</hi> Walter Raw<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <hi>'s Project being the Cream <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ll these Jests, empty Noise, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ain Amusements; a Pro<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Sir, that never has been, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> never will be of Six-pence <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>o the</hi> English <hi>Nation, the</hi>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lish <hi>Nation, under God, de<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ing upon timely Raising a <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ional Fishery; for the Day <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> Sea-Power's master'd, you <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>v, All goes with it.</hi>
+                  </note> Noise, and vain Amusements, and never has signify'd, nor never will signifie Six-pence to the <hi>English</hi> Nation.</p>
+               <p>That the Rise of the <hi>French</hi> Naval Power, and the Fall of <hi>England</hi>'s Fisheries, proves it with a Witness.</p>
+               <p>That all the Wits in <hi>Europe,</hi> were <hi>Solomon</hi> to help 'em, can't raise the Wealth and Power of <hi>England,</hi> without raising <hi>England</hi>'s National Fishery.</p>
+               <p>That <hi>England</hi>'s National Fishery is to be rais'd by Art, not Money.</p>
+               <p>That upon that Art <hi>England's All</hi> depends, if <hi>England's All</hi> depends on Naval Power.</p>
+               <p>And now, Sir, if any of these Thoughts chance to awaken <hi>Great Britain,</hi> who knows but it may prove a Parallel Case to what has formerly happen'd: A Goose, you know, awak'd those that sav'd the Capitol, the Capitol sav'd <hi>Rome, Rome</hi> conquer'd the World. In other Words, Sir, if all these Thoughts in the <hi>Aegyptian</hi> Darkness we live in, does but afford us the Light of one Star, who knows but that Star may prove a Morning-Star, and lead in that Glorious Sun call'd <hi>England's Growing National Fishery,</hi> which as it rises will become <hi>Great Britain's Glory,</hi> and the Gase, Wonder, Envy, and Terror of the World.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
